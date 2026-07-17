@@ -6,12 +6,12 @@
 
 ### 💫 About Me:
 
-* 🔭 **I’m currently working on:** [Project Name or "improving my development skills"]
-* 👯 **I’m looking to collaborate on:** [Type of projects or "Open Source projects"]
+* 🔭 **I’m currently working on:** [improving my development skills]
+* 👯 **I’m looking to collaborate on:** [ "Open Source projects"]
 * 🤝 **I’m looking for help with:** [A specific technology, bug, or concept you're stuck on]
 * 🌱 **I’m currently learning:** [Languages, frameworks, or tools you are studying]
 * 💬 **Ask me about:** [Topics you know well, e.g., React, Python, UI Design]
-* ⚡ **Fun fact:** [A quirky or interesting fact about yourself]
+* ⚡ **Fun fact:** 
 
 ---
 
